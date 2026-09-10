@@ -34,6 +34,7 @@ test task
 |`/booking/:id|DELETE| 1          | 3          | 4     |
 |`/ping`         |GET| 1          | 0          | 1     |
 | **ИТОГО**       |  | **9**      | **18**    | **28** |
+Полный список — в файле [`test-cases.xlsx`](test-cases.xlsx).
 
 ---
 ## 📊 Результаты тестирования
@@ -72,6 +73,7 @@ test task
 ---
 
 ## 🚀 Как запустить тесты
+Скачать — [`restful-booker.postman_collection.json`](restful-booker.postman_collection.json).
 
 ### Требования
 - Postman 
