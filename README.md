@@ -67,7 +67,7 @@ test task
 **Особенности сервера (не баги):**
 - Повторное удаление брони возвращает `405 Method Not Allowed` вместо `404 Not Found` — это ожидаемое поведение Restful-Booker..
 
-Полный список — в файле [`docs/bug-reports.xlsx`](docs/bug-reports.xlsx).
+Полный список — в файле [`docsbug-reports.xlsx`](docsbug-reports.xlsx).
 
 ---
 
